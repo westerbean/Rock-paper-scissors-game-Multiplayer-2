@@ -4,7 +4,7 @@ A simple command-line Rock-Paper-Scissors game for two players, written in Pytho
 
 How to Play
 
-1. Run the script using Python ()
+1. Run the script using Python (https://github.com/westerbean/Rock-paper-scissors-game-Multiplayer-2/blob/main/Rock%20paper%20scissors%20game%20multiplayer%202/rock%20paper%20scissors%20for%20two%20players%20using%20system%20clear.py)
 2. Player 1 enters their choice (rock, paper, or scissors)
 3. Player 2 enters their choice (rock, paper, or scissors)
 4. View the game's outcome (win, lose, or tie)
